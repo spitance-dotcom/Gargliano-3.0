@@ -1,0 +1,1 @@
+Garigliano 3.0 - paquet pour GitHub Pages. Déposer TOUT le contenu de ce dossier à la racine du dépôt (index.html à la racine).
